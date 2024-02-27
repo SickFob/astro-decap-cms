@@ -1,6 +1,6 @@
 {
   "name": "@sickfob/astro-decap-cms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " Integrate the Decap CMS into your Astro project",
   "main": "index.js",
   "author": "sickfob",
