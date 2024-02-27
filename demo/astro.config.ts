@@ -3,7 +3,7 @@
 
 // @ts-check
 import { defineConfig } from 'astro/config';
-import DecapCMS from 'astro-decap-cms';
+import DecapCMS from '@sickfob/astro-decap-cms';
 
 export default defineConfig({
   integrations: [

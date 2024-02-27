@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "astro": "^4.4.5",
-    "astro-decap-cms": "file:../"
+    "@sickfob/astro-decap-cms": "file:../"
   }
 }

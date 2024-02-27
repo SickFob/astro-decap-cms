@@ -5,7 +5,7 @@ import type { PreviewStyle } from './types.js';
 import AdminDashboard from './vite-plugin-admin-dashboard.js';
 import { DeepPartial } from 'astro/dist/type-utils.js';
 
-const widgetPath = 'astro-decap-cms/identity-widget';
+const widgetPath = '@sickfob/astro-decap-cms/identity-widget';
 
 interface DecapCMSOptions {
 
@@ -69,7 +69,7 @@ export default function DecapCMS({
 
         injectRoute({
           pattern: adminPath,
-          entrypoint: 'astro-decap-cms/admin-dashboard.astro',
+          entrypoint: '@sickfob/astro-decap-cms/admin-dashboard.astro',
         });
 
         if (!disableIdentityWidgetInjection) {

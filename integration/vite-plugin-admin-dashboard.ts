@@ -2,7 +2,7 @@ import type { CmsConfig } from 'decap-cms-core';
 import type { Plugin } from 'vite';
 import type { PreviewStyle } from './types';
 
-const virtualModuleId = 'virtual:astro-decap-cms/user-config';
+const virtualModuleId = 'virtual:@sickfob/astro-decap-cms/user-config';
 const resolvedVirtualModuleId = '\0' + virtualModuleId;
 
 function generateVirtualConfigModule({
