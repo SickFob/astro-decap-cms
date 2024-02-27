@@ -32,5 +32,13 @@
   },
   "devDependencies": {
     "astro": "^4.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SickFob/astro-decap-cms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SickFob/astro-decap-cms/issues"
+  },
+  "homepage": "https://github.com/SickFob/astro-decap-cms#readme"
 }
