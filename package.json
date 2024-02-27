@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": " Integrate the Decap CMS into your Astro project",
   "main": "index.js",
-  "author": "luethifa",
+  "author": "sickfob",
   "license": "MIT",
   "type": "module",
   "exports": {
